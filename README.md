@@ -2,7 +2,7 @@
 
 Small static countdown app.
 
-<img src="screenshot.png">
+<img src="screenshot.gif">
 
 ---
 
